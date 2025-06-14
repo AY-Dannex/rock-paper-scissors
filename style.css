@@ -1,0 +1,35 @@
+     *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .first{
+           width: fit-content;
+           margin: 20px auto 0 auto;
+        }
+
+         .first h1{
+            text-align: center;
+         }
+
+        button, .button{
+            margin: 10px;
+            padding: 5px 20px;
+            cursor: pointer;
+        }
+
+        .button{
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+        }
+
+        .second{
+            margin-left: 30px;
+        }
+
+        span{
+            font-size: 30px;
+            font-weight: bold;
+        }
